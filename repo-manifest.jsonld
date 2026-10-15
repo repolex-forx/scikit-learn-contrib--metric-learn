@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/metric-learn/commit/8eb775ea82c41829bc583629ca3fab0fd8f204fc",
       "git:hexsha": "8eb775ea82c41829bc583629ca3fab0fd8f204fc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T21:37:19.431085+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/metric-learn/commit/dfd98925291c8ccc2361c00ed335111fb18286fb",
