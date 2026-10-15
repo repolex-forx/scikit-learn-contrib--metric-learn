@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "metric-learn",
+  "versions": [
+    {
+      "commit": "8eb775ea82c41829bc583629ca3fab0fd8f204fc",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:37:19.431642+00:00"
+    }
+  ]
+}
